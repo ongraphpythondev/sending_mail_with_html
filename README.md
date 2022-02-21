@@ -29,5 +29,7 @@ python manage.py runserver
 # Functionalities Included:
    1) Sending mail
 
+# Note
+* Add email cridential in setting to send mail.
 
         
